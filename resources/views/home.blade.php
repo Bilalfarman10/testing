@@ -75,7 +75,7 @@ opacity: 50%;
             <div class="modal-dialog">
                 <div class="modal-content des1" style="width:1200px; height:600px; margin-left:-352px;opacity:80%">
                     <div class="modal-header">
-                        <h5 class="modal-title" style="color:#0f0f0e;">Working On it</h5>
+                        <h5 class="modal-title" style="color:#0f0f0e;">Did you get new changes? Working On it</h5>
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                     </div>
                     <div style="background-image: url({{asset('img/myimg/coming-soon4.png')}});background-repeat: no-repeat;" class="modal-body img1">
